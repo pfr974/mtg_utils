@@ -1,0 +1,28 @@
+4 Allosaurus Shepherd
+2 Bayou
+1 Birchlore Rangers
+1 Collector Ouphe
+2 Craterhoof Behemoth
+2 Dryad Arbor
+4 Elvish Visionary
+3 Forest
+4 Gaea's Cradle
+4 Glimpse of Nature
+4 Green Sun's Zenith
+4 Heritage Druid
+1 Llanowar Elves
+1 Misty Rainforest
+3 Natural Order
+4 Nettle Sentinel
+4 Quirion Ranger
+1 Scavenging Ooze
+2 Verdant Catacombs
+2 Windswept Heath
+4 Wirewood Symbiote
+3 Wooded Foothills
+
+3 Abrupt Decay
+4 Leyline of the Void
+3 Mindbreak Trap
+1 Progenitus
+4 Thoughtseize

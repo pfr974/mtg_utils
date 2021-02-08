@@ -1,0 +1,28 @@
+,card_name,reserved,set,set_name,color,cmc,type,qty,usd
+0,Allosaurus Shepherd,False,jmp,Jumpstart,G,1.0,Creature,4,89.28
+1,Bayou,True,3ed,Revised Edition,M,0.0,Land,2,467.71
+2,Birchlore Rangers,False,ons,Onslaught,G,1.0,Creature,1,0.4
+3,Collector Ouphe,False,mh1,Modern Horizons,G,2.0,Creature,1,3.25
+4,Craterhoof Behemoth,False,jmp,Jumpstart,G,8.0,Creature,2,39.68
+5,Dryad Arbor,False,plist,The List,G,0.0,Creature,2,14.24
+6,Elvish Visionary,False,cmr,Commander Legends,G,2.0,Creature,4,0.02
+7,Forest,False,dd1,Duel Decks: Elves vs. Goblins,G,0.0,Land,3,0.0
+8,Gaea's Cradle,True,usg,Urza's Saga,G,0.0,Land,4,769.72
+9,Glimpse of Nature,False,chk,Champions of Kamigawa,G,1.0,Sorcery,4,16.03
+10,Green Sun's Zenith,False,mbs,Mirrodin Besieged,G,1.0,Sorcery,4,16.41
+11,Heritage Druid,False,mor,Morningtide,G,1.0,Creature,4,5.83
+12,Llanowar Elves,False,m12,Magic 2012,G,1.0,Creature,1,0.23
+13,Misty Rainforest,False,mm3,Modern Masters 2017,X,0.0,Land,1,63.55
+14,Natural Order,False,ema,Eternal Masters,G,4.0,Sorcery,3,27.37
+15,Nettle Sentinel,False,mb1,Mystery Booster,G,1.0,Creature,4,0.27
+16,Quirion Ranger,False,vis,Visions,G,1.0,Creature,4,5.43
+17,Scavenging Ooze,False,c16,Commander 2016,G,2.0,Creature,1,1.03
+18,Verdant Catacombs,False,zen,Zendikar,X,0.0,Land,2,45.38
+19,Windswept Heath,False,ktk,Khans of Tarkir,X,0.0,Land,2,17.23
+20,Wirewood Symbiote,False,dd1,Duel Decks: Elves vs. Goblins,G,1.0,Creature,4,0.92
+21,Wooded Foothills,False,ktk,Khans of Tarkir,X,0.0,Land,3,25.78
+22,Abrupt Decay,False,mm3,Modern Masters 2017,M,2.0,Instant,3,5.14
+23,Leyline of the Void,False,pm20,Core Set 2020 Promos,B,4.0,Enchantment,4,4.63
+24,Mindbreak Trap,False,zen,Zendikar,U,4.0,Instant,3,17.81
+25,Progenitus,False,pgpx,Grand Prix Promos,M,10.0,Creature,1,7.86
+26,Thoughtseize,False,ths,Theros,B,1.0,Sorcery,4,11.63

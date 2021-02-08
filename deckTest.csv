@@ -1,0 +1,31 @@
+,card_name,reserved,set,set_name,color,cmc,type,qty,usd
+0,Bazaar of Wonders,True,mir,Mirage,U,5.0,Enchantment,1,6.23
+1,Hall of Gemstone,True,mir,Mirage,G,3.0,Enchantment,1,30.38
+2,Concordant Crossroads,False,chr,Chronicles,G,1.0,Enchantment,1,34.7
+3,Dryad Arbor,False,plist,The List,G,0.0,Creature,1,14.24
+4,Cleanfall,False,chk,Champions of Kamigawa,W,3.0,Sorcery,1,0.21
+5,Candles' Glow,False,chk,Champions of Kamigawa,W,2.0,Instant,1,0.13
+6,All Is Dust,False,mm2,Modern Masters 2015,X,7.0,Sorcery,1,6.72
+7,"Karn, Silver Golem",True,v10,From the Vault: Relics,X,5.0,Creature,1,17.89
+8,"Teferi, Hero of Dominaria",False,dom,Dominaria,M,5.0,Planeswalker,1,22.93
+9,Rakdos Guildgate,False,rna,Ravnica Allegiance,M,0.0,Land,1,0.04
+10,Snow-Covered Island,False,khm,Kaldheim,U,0.0,Land,1,0.54
+11,Blizzard Strix,False,mh1,Modern Horizons,U,5.0,Creature,1,0.07
+12,Blood on the Snow,False,khm,Kaldheim,B,6.0,Sorcery,1,0.33
+13,Cover of Winter,False,csp,Coldsnap,W,3.0,Enchantment,1,0.38
+14,Coldsteel Heart,False,cm2,Commander Anthology Volume II,X,2.0,Artifact,1,2.75
+15,Graven Lore,False,khm,Kaldheim,U,5.0,Instant,1,0.22
+16,Arctic Treeline,False,khm,Kaldheim,M,0.0,Land,1,0.23
+17,Bident of Thassa,False,c15,Commander 2015,U,4.0,Artifact,1,1.68
+18,Ordeal of Thassa,False,ths,Theros,U,2.0,Enchantment,1,0.12
+19,"Thassa, God of the Sea",False,ths,Theros,U,3.0,Creature,1,14.1
+20,"Halvar, God of Battle // Sword of the Realms",False,khm,Kaldheim,W,4.0,Creature,1,5.31
+21,Sword of Feast and Famine,False,mbs,Mirrodin Besieged,X,3.0,Artifact,1,41.6
+22,"Legion's Landing // Adanto, the First Fort",False,xln,Ixalan,W,1.0,Enchantment ,1,3.5
+23,Savai Triome,False,piko,Ikoria: Lair of Behemoths Promos,M,0.0,Land,1,4.63
+24,Phyrexian Scriptures,False,dom,Dominaria,B,4.0,Enchantment,1,2.18
+25,Bonecrusher Giant // Stomp,False,eld,Throne of Eldraine,R,3.0,Creature,1,0.96
+26,Delver of Secrets // Insectile Aberration,False,isd,Innistrad,U,1.0,Creature,1,0.93
+27,"Garruk Relentless // Garruk, the Veil-Cursed",False,isd,Innistrad,M,4.0,Planeswalker,1,3.2
+28,Barkchannel Pathway // Tidechannel Pathway,False,khm,Kaldheim,M,0.0,Land ,1,2.59
+29,Fire // Ice,False,uma,Ultimate Masters,M,4.0,Instant ,1,0.14
